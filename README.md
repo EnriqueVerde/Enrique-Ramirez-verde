@@ -59,6 +59,6 @@ Estudiante de **Ciencia de Datos** en el Instituto Politécnico Nacional (ESCOM)
 
 ---
 
-### 📬 Conectemos
-- 💼 **LinkedIn:** [linkedin.com/in/enrique-ramirez-verde](https://www.linkedin.com/in/enrique-ramirez-verde)
-- ✉️ **Correo:** eramirezv2203@alumno.ipn.mx
+### Formas de contactarme
+- **LinkedIn:** [linkedin.com/in/enrique-ramirez-verde](https://www.linkedin.com/in/enrique-ramirez-verde)
+- **Correo:** alassienverde90@gmail.com
